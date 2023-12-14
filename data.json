@@ -1,0 +1,19 @@
+[
+    {
+        "name" : "Tabriz",
+        "surname" : "Hasanli",
+        "age" : 19
+    },
+
+    {
+        "name" : "Kamil",
+        "surname" : "Malikov",
+        "age" : 20
+    },
+
+    {
+        "name" : "Kamal",
+        "surname" : "Shabanov",
+        "age" : 19
+    }
+]
